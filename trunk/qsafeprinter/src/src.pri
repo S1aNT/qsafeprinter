@@ -1,0 +1,2 @@
+QT *= xml
+INCLUDEPATH = $${PWD}
